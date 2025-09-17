@@ -4,4 +4,4 @@ Syksy 2025 peliprojekti
 Jos ja kun tekee muutoksia tähän repoon, ne tehdään OMALLA BRANCHILLA ja niitä EI MERGETÄ AUTOMAATTISESTI MAIN :iin!!!
 
 Niistä tehdään Pull Request jotta voidaan verrata niiden sopivuutta Main Branchiin,
-kysykää tarvittaessa Eemeliltä lisää
+kysykää tarvittaessa Eemeliltä (emebot) lisää
