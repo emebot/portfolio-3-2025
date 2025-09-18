@@ -1,7 +1,6 @@
-Syksy 2025 peliprojekti
+Fall 2025 game project
 
+If and when you want to make changes to this repository, make a NEW BRANCH and DO NOT MERGE IT AUTOMATICALLY TO MAIN!!!
 
-Jos ja kun tekee muutoksia tähän repoon, ne tehdään OMALLA BRANCHILLA ja niitä EI MERGETÄ AUTOMAATTISESTI MAIN :iin!!!
-
-Niistä tehdään Pull Request jotta voidaan verrata niiden sopivuutta Main Branchiin,
-kysykää tarvittaessa Eemeliltä (emebot) lisää
+Make a Pull Request so it can be compared to the Main branch without breaking it.
+If needed ask Eemeli (emebot) for help.
